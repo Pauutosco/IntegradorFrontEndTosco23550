@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+.carousel-item {
+    height: 100vh;
+}
+
+.carousel-caption {
+    position: absolute;
+    display: block;
+    text-align: right;
+    font-size: 1.1rem;
+}
+
+.carousel-image {
+    filter: brightness(50%);
+}
+
+.hon {
+    background-color: #3b3c3d;
+    width: 100%;
+    height: 100%;
+    color:aliceblue;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;    
+}
+
+.logo a {
+    color:aliceblue;
+}
+
+
+.form-item {
+    width: 100%;
+}
+
+.footer {
+    background-color: rgb(7, 44, 99);
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
