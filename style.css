@@ -51,3 +51,55 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+/*comprar tickets*/
+
+
+
+.tickets-container {
+    padding-top: 20px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.ticket-box {
+    border-style: solid;
+    border-color: black;
+    display: flexbox;
+    justify-content: center;
+    margin: 5px;
+}
+
+.card_e{
+    border-color: rgb(27,136,253);
+}
+.card_t{
+border-color: rgb(48,170,190);
+}
+.card_j{
+border-color: rgb(253,198,34);
+}
+
+
+
+.ticket-estudiante {
+    border-style: solid;
+    border-color:rgb(7, 44, 99);
+}
+.button-color2{
+    width: 100%;
+        background-color:rgb(150,201,62);
+    }
+    .button-color2:hover{
+        background-color:rgb(98, 131, 42);
+    }
+
+    .total{
+        background-color: rgb(204,229,255);
+        height: 50px;
+        border-radius: 10px;
+    }
+    .total p{
+        color: rgb(24,88,155);
+    }
