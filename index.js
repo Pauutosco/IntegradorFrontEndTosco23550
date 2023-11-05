@@ -101,5 +101,5 @@ borrar.addEventListener('click', (elemento)=>{
     elemento.preventDefault();
     
     document.getElementById('form_de_venta').reset();//resetea el formulario a sus valores por defecto
-    parrafo_total.innerHTML='';
+    total.innerHTML='';
     })
